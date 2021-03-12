@@ -1,4 +1,17 @@
-baseURL = "https://exc-yujin.github.io/hugoTest/"
+baseURL = "https://exc-yujin.github.io/HareArts/"
 languageCode = "jp"
 title = "HareArts Official"
+theme = "hugo-theme-console"
 publishDir = "docs"
+
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = true
+
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animated zoomIn fast" 
+
+  [[params.navlinks]]
+  name = "ゲーム紹介/"
+  url = "games/"
