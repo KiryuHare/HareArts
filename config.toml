@@ -1,0 +1,4 @@
+baseURL = "https://exc-yujin.github.io/hugoTest/"
+languageCode = "jp"
+title = "HareArts Official"
+publishDir = "docs"
