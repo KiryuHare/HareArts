@@ -9,24 +9,15 @@
     <lastBuildDate>Fri, 12 Mar 2021 16:05:47 +0900</lastBuildDate><atom:link href="https://exc-yujin.github.io/HareArts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>回星飛行 Android 2021/3</title>
-      <link>https://exc-yujin.github.io/HareArts/games/kaiseihiko/kaiseihiko/</link>
+      <link>https://exc-yujin.github.io/HareArts/games/kaiseihiko/</link>
       <pubDate>Fri, 12 Mar 2021 16:05:47 +0900</pubDate>
       
-      <guid>https://exc-yujin.github.io/HareArts/games/kaiseihiko/kaiseihiko/</guid>
+      <guid>https://exc-yujin.github.io/HareArts/games/kaiseihiko/</guid>
       <description>！！！Google Play申請中！！！
 星々の周りを飛び回って遠くを目指そう！
 星の周りをくるくる回りながらより遠くの宇宙を目指す感じのゲームです。 重力を利用しながら、星々にぶつからないように。全部で６ステージです。
 各ステージ、スコア・クリア時間ランキングを実装しています。 ぜひ参加してみてください。
 プレイ動画 </description>
-    </item>
-    
-    <item>
-      <title>Arizona, US</title>
-      <link>https://exc-yujin.github.io/HareArts/games/arizona-us/</link>
-      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://exc-yujin.github.io/HareArts/games/arizona-us/</guid>
-      <description>The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. The canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).</description>
     </item>
     
   </channel>
