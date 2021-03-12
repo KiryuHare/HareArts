@@ -16,8 +16,8 @@
 :root {
     --global-font-size: 16px;
     --global-font-color: #444;
-    --mono-font-stack: smartfontui, serif;
-    --font-stack: smartfontui, serif;
+    --mono-font-stack: smartfontui, sans-serif;
+    --font-stack: smartfontui, sans-serif;
     --global-line-height: 1.6em;
     --page-width: 70em;
     --display-h1-decoration: 1;
