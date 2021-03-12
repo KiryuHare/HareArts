@@ -15,5 +15,3 @@ publishDir = "docs"
   [[params.navlinks]]
   name = "ゲーム紹介/"
   url = "games/"
-
-og_image = "/thumbnails/default.png"
