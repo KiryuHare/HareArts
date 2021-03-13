@@ -1,9 +1,9 @@
-+++
-image= "Logo.jpg"
-title= "回星飛行 Android 2021/3"
-date= 2021-03-12T16:05:47+09:00
-description= "回星飛行 Android 2021/3 星々の周りを飛び回って遠くを目指そう"
-+++
+---
+image: "kaiseiHiko_thumbnail.jpg"
+title: "回星飛行 Android 2021/3"
+date: 2021-03-12T16:05:47+09:00
+description: "回星飛行 Android 2021/3 星々の周りを飛び回って遠くを目指そう"
+---
 ！！！Google Play申請中！！！
 
 星々の周りを飛び回って遠くを目指そう！
