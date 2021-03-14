@@ -5,6 +5,8 @@ date: 2021-03-12T16:05:47+09:00
 description: "星々の周りを飛び回って遠くを目指そう！「回星飛行」 Android 2021/3"
 twitter: true
 ---
+![回星飛行 イメージボード](kaiseiHiko_thumbnail.jpg)
+
 ！！！Google Play申請中！！！
 
 星々の周りを飛び回って遠くを目指そう！
