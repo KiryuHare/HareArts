@@ -5,10 +5,14 @@
 <!-- {{ with .Params.linkedin }}
     <a href="{{ . }}">Linkedin</a>
 {{ end }} -->
+{{if .Params.image }}
 {{ $image := .Page.Resources.GetMatch .Params.image }}
+<a href="{{ .Permalink }}">
 {{ with $image }}
-{{ $thumb := .Resize "400x" }}
-<img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}">
+    {{ $thumb := .Resize "400x" }}
+    <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class ="image-board">
+{{end}}
+</a>
 {{end}}
 <br/><br/>
 {{ .Content }}

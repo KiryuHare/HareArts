@@ -11,11 +11,14 @@ twitter: true
 星々の周りを飛び回って遠くを目指そう！
 
 <!--more-->
+
 星の周りをくるくる回りながらより遠くの宇宙を目指す感じのゲームです。
 重力を利用しながら、星々にぶつからないように。全部で６ステージです。
 
 各ステージ、スコア・クリア時間ランキングを実装しています。
 ぜひ参加してみてください。
+
+{{< googleplay "https://play.google.com/store/apps/details?id=com.HareArts.Kaisei_Hiko">}}
 
 ---
 

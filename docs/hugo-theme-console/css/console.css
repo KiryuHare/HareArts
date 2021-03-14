@@ -261,6 +261,9 @@ figure {
     }
 }
 
-img{
+img.image-board{
     width: 50%;  /* 横幅に合わせて自動縮小するが、拡大はしない */
+}
+img.banner{
+    max-width: 30%;
 }
