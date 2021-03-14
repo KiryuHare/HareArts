@@ -19,7 +19,6 @@ twitter: true
 ぜひ参加してみてください。
 
 {{< googleplay "https://play.google.com/store/apps/details?id=com.HareArts.Kaisei_Hiko">}}
-
 ---
 
 プレイ動画
