@@ -3,7 +3,7 @@ languageCode = "jp"
 title = "HareArts Official"
 theme = "hugo-theme-console"
 publishDir = "docs"
-
+hasCJKLanguage = true
 [params]
   ogimage="/HareArts/images/Logo.jpg"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
