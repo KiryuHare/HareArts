@@ -6,8 +6,6 @@ description: "星々の周りを飛び回って遠くを目指そう！「回星
 twitter: true
 ---
 
-！！！Google Play申請中！！！
-
 星々の周りを飛び回って遠くを目指そう！
 
 <!--more-->
