@@ -5,12 +5,6 @@
   </header>
 </template>
 
-<script>
-export default {
-  name: "PageHeader",
-};
-</script>
-
 <style scoped>
 header {
   background-color: black;
